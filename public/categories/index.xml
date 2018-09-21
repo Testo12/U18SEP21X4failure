@@ -9,6 +9,7 @@
     
 	<atom:link href="http://example.org/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    <h2>Hello </h2> 
     
   </channel>
 </rss>
